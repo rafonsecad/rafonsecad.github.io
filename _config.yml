@@ -16,7 +16,7 @@ timezone:
 
 title:  The Tech Dungeon # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Cybersec blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Cybersec blog
